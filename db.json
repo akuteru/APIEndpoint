@@ -114,5 +114,17 @@
             "stateVote":""
         }
         
+    ],
+    "forms":[
+        {
+            "id":1,
+            "name": "REGISTRO DE DATOS",
+            "creationDate":"2022-12-01T18:25:43.511Z"
+        },
+        {
+            "id":2,
+            "name": "DATOS BASICOS",
+            "creationDate":"2022-12-02T18:25:43.511Z"
+        }
     ]
 }
