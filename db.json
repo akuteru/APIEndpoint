@@ -1,12 +1,118 @@
 
 {
-    "posts": [
+    "users":[
         {
-          "id": 1,
-          "title": "hello"
+            "id": 1,
+            "name":"Jose M. Kemp",
+            "gender":"Male",
+            "email":"JoseMKemp@rhyta.com",
+            "cellphone":"859-403-8313",
+            "stateVote":""
+        },
+        {
+            "id": 2,
+            "name":"James K. Matthews",
+            "gender":"Male",
+            "email":"JamesKMatthews@dayrep.com",
+            "cellphone":"413-889-0405",
+            "stateVote":""
+        },
+        {
+            "id": 3,
+            "name":"Bradley R. Coffin",
+            "gender":"Male",
+            "email":"BradleyRCoffin@jourrapide.com",
+            "cellphone":"727-432-2026",
+            "stateVote":""
+        },
+        {
+            "id": 4,
+            "name":"Tina J. Christman",
+            "gender":"Female",
+            "email":"TinaJChristman@armyspy.com",
+            "cellphone":"202-357-6419",
+            "stateVote":""
+        },
+        {
+            "id": 5,
+            "name":"Billy J. Garcia",
+            "gender":"Male",
+            "email":"BillyJGarcia@armyspy.com",
+            "cellphone":"831-457-0888",
+            "stateVote":""
+        },
+        {
+            "id": 6,
+            "name":"Sabrina A. Benson",
+            "gender":"Female",
+            "email":"SabrinaABenson@rhyta.com",
+            "cellphone":"206-219-1395",
+            "stateVote":""
+        },
+        {
+            "id": 7,
+            "name":"Mia Trujillo Serrano",
+            "gender":"Female",
+            "email":"MiaTrujilloSerrano@dayrep.com",
+            "cellphone":"696 016 169",
+            "stateVote":""
+        },
+        {
+            "id": 8,
+            "name":"Reinaldo Bahena Jimínez",
+            "gender":"Male",
+            "email":"ReinaldoBahenaJiminez@jourrapide.com",
+            "cellphone":"686 299 599",
+            "stateVote":""
+        },
+        {
+            "id": 9,
+            "name":"Stefano Sandoval Candelaria",
+            "gender":"Male",
+            "email":"StefanoSandovalCandelaria@dayrep.com",
+            "cellphone":"772 102 695",
+            "stateVote":""
+        },
+        {
+            "id": 10,
+            "name":"Landerico Vigil Vega",
+            "gender":"Male",
+            "email":"LandericoVigilVega@jourrapide.com",
+            "cellphone":"762 676 415",
+            "stateVote":""
+        },
+        {
+            "id": 11,
+            "name":"Geppetto Ortega Gamez",
+            "gender":"Male",
+            "email":"GeppettoOrtegaGamez@teleworm.us",
+            "cellphone":"728 994 739",
+            "stateVote":""
+        },
+        {
+            "id": 12,
+            "name":"Herminda Blanco Ceja",
+            "gender":"Female",
+            "email":"HermindaBlancoCeja@teleworm.us",
+            "cellphone":"625 020 500",
+            "stateVote":""
+        },
+        {
+            "id": 13,
+            "name":"Marceliana Blanco Mesa",
+            "gender":"Female",
+            "email":"MarcelianaBlancoMesa@armyspy.com",
+            "cellphone":"743 652 431",
+            "stateVote":""
+        },
+        {
+            "id": 14,
+            "name":"Josephine Acuna Tafoya",
+            "gender":"Female",
+            "email":"JosephineAcunaTafoya@teleworm.us",
+            "cellphone":"684 124 711",
+            "stateVote":""
         }
-      ],
-      "profile": {
-        "name": "typicode"
-      }
+        
+    ]
 }
