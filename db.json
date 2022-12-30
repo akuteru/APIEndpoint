@@ -126,5 +126,12 @@
             "name": "DATOS BASICOS",
             "creationDate":"2022-12-02T18:25:43.511Z"
         }
+    ],
+    "surveys":[
+        {
+            "id":1,
+            "name": "INTENCION DE VOTO",
+            "creationDate":"2022-12-01T18:25:43.511Z"
+        }
     ]
 }
